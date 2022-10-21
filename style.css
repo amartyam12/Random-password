@@ -21,8 +21,8 @@ input:focus-visible {
 .box {
     min-width: 400px;
     padding: 20px;
-    box-shadow: 0 15px 15px 10px rgba(10, 38, 92, 0.5);
-    background: #2980b9;
+    box-shadow: 0 15px 15px 10px #85167d85;
+    background: #500d4b85;
     border-radius: 20px;
     margin-top: 10px;
 }
@@ -31,14 +31,14 @@ h1{
     border-radius: 15px;
     margin-left: 110px;
     color: antiquewhite;
-    text-shadow: #2980b9;
+    text-shadow: #500d4b85;
     position:relative;
     margin-bottom: 20px;
 }
 .copy{
     position: absolute;
     color: white;
-    background-color: rgb(59, 59, 59);
+    background-color: rgb(24, 23, 24);
     /* text-align: end; */
     margin-top: 2.5px ;
     height:auto;
@@ -79,8 +79,8 @@ label {
     outline: 0;
     border: 0;
     padding: 10px;
-    background-color: #34495e;
+    background-color: #000000;
     color: white;
     margin-top: 10px;
-    border-radius: 5px;
+    border-radius: 1000px;
 }
